@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+
+}
+
+
+h2 {
+    font-size: 60px;
+    margin-top: 20%;
+    text-align: center;
+}
+
+.box {
+    font-size: 45px;
+    border: 3px solid rgb(170, 169, 169);
+    border-radius: 6px;
+}
+
+#text {
+    height: 60px;
+    width: 110px;
+    margin: 10px;
+    text-align: center;
+    
+}
+
+#button1:hover {
+    background-color: white;
+    color:rgb(170, 169, 169)
+}
+
+#button2:hover {
+    background-color: white;
+    color:rgb(170, 169, 169)
+}
+
+#button1, #button2 {
+    color: white;
+    width: 65px;
+    height: 65px;
+    background-color: rgb(170, 169, 169);
+}
+
+.container {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
